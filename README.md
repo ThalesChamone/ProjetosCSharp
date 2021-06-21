@@ -1,2 +1,2 @@
 # ProjetosCSharp
-Projetos iniciais em C#
+Projetos iniciais em C#, em aprendizado
