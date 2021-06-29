@@ -12,40 +12,7 @@ namespace Menu_Lanchonete
             List<Funcionario> BancoDeDados = new List<Funcionario>();
             List<Cardapio> Comidas = new List<Cardapio>();
             List<Cardapio> Bebidas = new List<Cardapio>();
-            bool loop = true;
-            /*BancoDeDados.Add(new Funcionario
-            {
-                LoginFunc = "123",
-                SenhaFunc = "456"
-            });
-
-            Bebidas.Add(new Cardapio
-            {
-                NomeProduto = "Coca",
-                PrecoProduto = 4.65,
-                ID = 1                
-            });
-            Bebidas.Add(new Cardapio
-            {
-                NomeProduto = "Sprite",
-                PrecoProduto = 3.65,
-                ID = 2
-            });
-
-            Comidas.Add(new Cardapio
-            {
-                NomeProduto = "Pão",
-                PrecoProduto = 4.65,
-                ID = 1
-            });
-
-            Comidas.Add(new Cardapio
-            {
-                NomeProduto = "Biscoito",
-                PrecoProduto = 1.85,
-                ID = 2
-            });*/
-
+            bool loop = true;        
 
             while (loop)
             {
